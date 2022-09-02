@@ -14,7 +14,8 @@ public class qus_20 {
 
         return count;
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int[] arr={-2,0,67,90,-45,89,1,8};
        int print=postive_postion_count(arr);
        System.out.println(print);
