@@ -1,6 +1,6 @@
-package question_4;
+package question_5;
 
-public class qus3 {
+public class qus_5 {
     public static void main(String[] args) {
         
     }

@@ -1,8 +1,8 @@
-package question_3;
+package question_2;
 
 import java.util.Scanner;
 
-public class question2 {
+public class qus_2 {
     public static void userinput()
     {
        Scanner sc=new Scanner(System.in);

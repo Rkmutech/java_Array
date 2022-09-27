@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch qus_51",
+            "request": "launch",
+            "mainClass": "question_51.qus_51",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_55",
+            "request": "launch",
+            "mainClass": "question_55.qus_55",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus1",
+            "request": "launch",
+            "mainClass": "question2.qus1",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_4",
+            "request": "launch",
+            "mainClass": "question4.qus_4",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_6",
+            "request": "launch",
+            "mainClass": "question6.qus_6",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_12",
+            "request": "launch",
+            "mainClass": "question_12.qus_12",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_13",
+            "request": "launch",
+            "mainClass": "question_13.qus_13",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_15",
+            "request": "launch",
+            "mainClass": "question_15.qus_15",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_16",
+            "request": "launch",
+            "mainClass": "question_16.qus_16",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_18",
+            "request": "launch",
+            "mainClass": "question_18.qus_18",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_2",
+            "request": "launch",
+            "mainClass": "question_2.qus_2",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_20",
+            "request": "launch",
+            "mainClass": "question_20.qus_20",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_21",
+            "request": "launch",
+            "mainClass": "question_21.qus_21",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_23",
+            "request": "launch",
+            "mainClass": "question_23.qus_23",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_24",
+            "request": "launch",
+            "mainClass": "question_24.qus_24",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_25",
+            "request": "launch",
+            "mainClass": "question_25.qus_25",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_26",
+            "request": "launch",
+            "mainClass": "question_26.qus_26",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_27",
+            "request": "launch",
+            "mainClass": "question_27.qus_27",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_28",
+            "request": "launch",
+            "mainClass": "question_28.qus_28",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_3",
+            "request": "launch",
+            "mainClass": "question_3.qus_3",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_36",
+            "request": "launch",
+            "mainClass": "question_36.qus_36",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_37",
+            "request": "launch",
+            "mainClass": "question_37.qus_37",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_38",
+            "request": "launch",
+            "mainClass": "question_38.qus_38",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_39",
+            "request": "launch",
+            "mainClass": "question_39.qus_39",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_40",
+            "request": "launch",
+            "mainClass": "question_40.qus_40",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_41",
+            "request": "launch",
+            "mainClass": "question_41.qus_41",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_42",
+            "request": "launch",
+            "mainClass": "question_42.qus_42",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_43",
+            "request": "launch",
+            "mainClass": "question_43.qus_43",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_44",
+            "request": "launch",
+            "mainClass": "question_44.qus_44",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_45",
+            "request": "launch",
+            "mainClass": "question_45.qus_45",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_46",
+            "request": "launch",
+            "mainClass": "question_46.qus_46",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_47",
+            "request": "launch",
+            "mainClass": "question_47.qus_47",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_48",
+            "request": "launch",
+            "mainClass": "question_48.qus_48",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_49",
+            "request": "launch",
+            "mainClass": "question_49.qus_49",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_5",
+            "request": "launch",
+            "mainClass": "question_5.qus_5",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_50",
+            "request": "launch",
+            "mainClass": "question_50.qus_50",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_7",
+            "request": "launch",
+            "mainClass": "question_7.qus_7",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_8",
+            "request": "launch",
+            "mainClass": "question_8.qus_8",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_9",
+            "request": "launch",
+            "mainClass": "question_9.qus_9",
+            "projectName": "java_Array_c220d0d2"
+        }
+    ]
+}
