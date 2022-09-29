@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch dup",
+            "request": "launch",
+            "mainClass": "duplicate_Array.dup",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch qus_35",
+            "request": "launch",
+            "mainClass": "question_35.qus_35",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
             "name": "Launch qus_51",
             "request": "launch",
             "mainClass": "question_51.qus_51",
