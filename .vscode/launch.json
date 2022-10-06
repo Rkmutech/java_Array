@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch binary",
+            "request": "launch",
+            "mainClass": "search.binary",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java_Array_c220d0d2"
+        },
+        {
+            "type": "java",
             "name": "Launch dup",
             "request": "launch",
             "mainClass": "duplicate_Array.dup",
